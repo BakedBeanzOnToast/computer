@@ -4,14 +4,47 @@
 }
 
 header {
-    font-size: 2.2em;
+    font-size: 3em;
     font-family: 'Barlow', sans-serif;
 }
 
 
 body {
     font-family: 'Barlow', sans-serif;
+    background-color: #92d1c3
 }
+
+
+
+/* Add a black background color to the top navigation */
+.topnav {
+    background-color: #fdf5bf;
+    overflow: hidden;
+}
+
+/* Style the links inside the navigation bar */
+.topnav a {
+    float: left;
+    color: #333;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+}
+
+/* Change the color of links on hover */
+.topnav a:hover {
+    background-color: #8bb8a8;
+    color: black;
+}
+
+/* Add a color to the active/current link */
+.topnav a.active {
+    background-color: #4CAF50;
+    color: white;
+}
+
+
 
 h2 {
     font-size: 1em;
