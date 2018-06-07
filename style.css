@@ -1,0 +1,23 @@
+* {
+    text-align: center;
+    margin: 0 auto;
+}
+
+header {
+    font-size: 2.2em;
+    font-family: 'Barlow', sans-serif;
+}
+
+
+body {
+    font-family: 'Barlow', sans-serif;
+}
+
+h2 {
+    font-size: 1em;
+    font-family: 'Barlow', sans-serif;
+}
+
+img {
+    border: 2px solid #91d0c2;
+}
