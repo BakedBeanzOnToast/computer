@@ -56,15 +56,19 @@ img {
 }
 
  br {
-        line-height: 1000%;
+        line-height: 700%;
+}
+
+.back {
+        line-height: 2000%;
 }
 
 .photo {
     float: left;
-    width: 40%;
+    width: 35%;
 }
 
 .text {
     float: right;
-    width: 60%;
+    width: 65%;
 }
